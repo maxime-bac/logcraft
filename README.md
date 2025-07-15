@@ -4,4 +4,4 @@
 
 - Tristan Combaz 
 - Maxime Bacon
-- Lucas JArrosson
+- Lucas Jarrosson
